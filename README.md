@@ -1,11 +1,17 @@
 <h1 align="center">Hola 👋, soy Melina Acuña</h1><h3 align="center">Full Stack Developer</h3>
 
 
-- Trabajé en [Proyecto Individual-VideoGames](https://github.com/Melina2201/PI-VIDEOGAMES)- También trabajé en un grupo en [FlexAgenda](https://flex-agenda.vercel.app/ 🔭)
+- Trabajé en [Proyecto Individual-VideoGames](https://github.com/Melina2201/PI-VIDEOGAMES)
+- También trabajé en un grupo en [FlexAgenda](https://flex-agenda.vercel.app/ 🔭)
 
 
+** 🙋🏻 ♀️Soy una desarrolladora web Full Stack apasionada por la tecnología y la contabilidad. Me gradué de Soy Henry, donde adquirí habilidades técnicas en lenguajes de programación como JavaScript, Node.js, React y SQL, entre otros. 
 
-👯 - 💬 Pregúntame sobre ** 🙋🏻 ♀️Soy una desarrolladora web Full Stack apasionada por la tecnología y la contabilidad. Me gradué de Soy Henry, donde adquirí habilidades técnicas en lenguajes de programación como JavaScript, Node.js, React y SQL, entre otros. 💻Durante mi formación, he trabajado en proyectos de desarrollo web, en los que he desarrollado habilidades en la creación de aplicaciones web y la resolución de problemas complejos en un entorno de equipo. 🔢Además, actualmente estoy estudiando para obtener mi título de Contador Público, lo que me permitirá expandir mis conocimientos en el área financiera y combinarlos con mis habilidades tecnológicas para aportar soluciones integrales a los desafíos de negocios de hoy en día. 👥Además de mis habilidades técnicas y financieras, cuento con una excelente capacidad de comunicación, lo que me permite transmitir mis ideas de manera muy clara. Creo firmemente en el trabajo en equipo y la colaboración para alcanzar objetivos en común. Soy proactivo/a y siempre busco maneras de mejorar procesos y aumentar la eficiencia. También disfruto del aprendizaje constante y me adapto rápidamente a los cambios, lo que me permite trabajar eficientemente en equipos multidisciplinarios.. 🚀 **
+💻Durante mi formación, he trabajado en proyectos de desarrollo web, en los que he desarrollado habilidades en la creación de aplicaciones web y la resolución de problemas complejos en un entorno de equipo. 
+
+🔢Además, actualmente estoy estudiando para obtener mi título de Contador Público, lo que me permitirá expandir mis conocimientos en el área financiera y combinarlos con mis habilidades tecnológicas para aportar soluciones integrales a los desafíos de negocios de hoy en día. 
+
+👥Además de mis habilidades técnicas y financieras, cuento con una excelente capacidad de comunicación, lo que me permite transmitir mis ideas de manera muy clara. Creo firmemente en el trabajo en equipo y la colaboración para alcanzar objetivos en común. Soy proactivo/a y siempre busco maneras de mejorar procesos y aumentar la eficiencia. También disfruto del aprendizaje constante y me adapto rápidamente a los cambios, lo que me permite trabajar eficientemente en equipos multidisciplinarios.. 🚀 **
 
 - 📫 Cómo comunicarse conmigo **acunamelina2201@gmail.com**
 
