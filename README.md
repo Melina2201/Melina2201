@@ -19,9 +19,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  <h3 align="left">Proyectos:</h3><p align="left">
--Trabajé en [VideoGames](https://github.com/Melina2201/PI-VIDEOGAMES/)
+-Trabajé en <a href="https://github.com/Melina2201/PI-VIDEOGAMES/">VideoGames</a>
+
   
--También trabajé en un grupo en [FlexAgenda](https://flex-agenda.vercel.app/)
+-También trabajé en un grupo en <a href="https://flex-agenda.vercel.app/">FlexAgenda</a>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
